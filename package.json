@@ -1,0 +1,23 @@
+{
+  "name": "youtubedl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "youtubeDL": "./main.mjs"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "chalk": "^5.6.2",
+    "figlet": "^1.11.0",
+    "prompts": "^2.4.2",
+    "youtube-dl-exec": "^3.1.6",
+    "youtubei.js": "^17.0.1"
+  }
+}
