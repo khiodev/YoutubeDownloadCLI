@@ -3,7 +3,6 @@ Download Youtube videos as MP4 or MP3 right from your command prompt
 
 # Prerequisites
 - v24 or above Node.js
-- Python 3.9 or above (Working on using another way of downloading videos so python isn't required)
 
 # Installation
 1) Press the **code** button on top right, then download as zip
